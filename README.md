@@ -4,15 +4,13 @@ Hi, I am Daniel. </br>
 I am a **Data & Business Intelligence Specialist** (with a focus on **Data Analytics**) and an experienced Knowledge Worker.
 
 📈 I really enjoy contributing to the success of an organisation by turning data into useful information, knowledge and competitive advantage.
-In the past, I have worked as a developer, consultant, project manager and project controller in various companies and successful BI projects.
+In the past, I have worked as a Business Intelligence developer, Business Intelligence consultant, project manager and project controller in various companies and successful projects.
 
 👨‍🎓 I am very enthusiastic about learning new technologies. Since 2024 I have been working on new data skills in the field of **Data Science**, **Python** and **Machine Learning**.
 
-📙 I also enjoy reading non-fiction books about **Psychology**, **nutrition** & **finance**. At the moment my favourite books are **Atomic Habits** by James Clear and **Rich Dad, Poor Dad** by Robert Kiyosaki.
-
 That is me for now. Stay in touch! ✌
 
-## 🛠️ Skills (my bread and butter)
+## 🛠️ Skills
 
 ### Languages
 
@@ -30,7 +28,6 @@ That is me for now. Stay in touch! ✌
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 💻 Front-End & Web-Development
 
